@@ -1,0 +1,17 @@
+# MySQL Configuration
+mysql:
+  enable: false
+  host: localhost
+  port: '3306'
+  database: database
+  username: username
+  password: password
+
+#Forced Hosts
+forced_hosts:
+  hub:
+    - default
+  crack:
+    - crack
+  build:
+    - build.horyzon.eu

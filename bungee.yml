@@ -1,0 +1,4 @@
+name: PremiumConnector
+version: indev
+author: [LLIcocoman]
+main: eu.horyzon.premiumconnector.PremiumConnector
